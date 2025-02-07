@@ -2,7 +2,7 @@
  * utility.c
  *
  *  Created on: Mar 7, 2024
- *      Author: Arif Mandal
+ *      Author: Davut Beyazkaya
  */
 
 #include "utility.h"
