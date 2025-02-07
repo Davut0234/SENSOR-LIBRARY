@@ -2,7 +2,7 @@
  * at24c256.c
  *
  *  Created on: Mar 28, 2024
- *      Author: Arif Mandal
+ *      Author: Davut Beyazkaya
  */
 
 #include "at24c256.h"
