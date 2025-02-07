@@ -59,6 +59,5 @@ Each sensor library contains dedicated `init`, `read`, and utility functions to 
 ## Contribution
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the libraries.
 
-## License
-This repository is licensed under the MIT License.
+
 
