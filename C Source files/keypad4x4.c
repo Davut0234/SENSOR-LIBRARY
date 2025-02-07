@@ -2,7 +2,7 @@
  * keypad4x4.c
  *
  *  Created on: Feb 29, 2024
- *      Author: Arif Mandal
+ *      Author: Davut Beyazkaya
  */
 
 #include "keypad4x4.h"
