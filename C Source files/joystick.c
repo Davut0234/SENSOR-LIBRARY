@@ -2,7 +2,7 @@
  * joystick.c
  *
  *  Created on: Mar 2, 2024
- *      Author: Arif Mandal
+ *      Author: Davut Beyazkaya
  */
 
 #include "joystick.h"
