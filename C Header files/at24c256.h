@@ -2,7 +2,7 @@
  * at24c256.h
  *
  *  Created on: Mar 28, 2024
- *      Author: Arif Mandal
+ *      Author: Davut Beyazkaya
  */
 
 #ifndef INC_AT24C256_H_
