@@ -2,7 +2,7 @@
  * bme280.h
  *
  *  Created on: Feb 24, 2024
- *      Author: Arif Mandal
+ *      Author: Davut Beyazkaya
  */
 
 #ifndef INC_BME280_H_
