@@ -2,7 +2,7 @@
  * adxl345.c
  *
  *  Created on: Feb 22, 2024
- *      Author: Arif Mandal
+ *      Author:Davut Beyazkaya
  */
 
 #include "adxl345.h"
