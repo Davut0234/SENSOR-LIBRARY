@@ -2,7 +2,7 @@
  * adxl345.h
  *
  *  Created on: Feb 22, 2024
- *      Author: Arif Mandal
+ *      Author: Davut Beyazkaya
  */
 
 #ifndef INC_ADXL345_H_
