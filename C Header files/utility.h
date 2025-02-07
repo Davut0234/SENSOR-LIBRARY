@@ -2,7 +2,7 @@
  * utility.h
  *
  *  Created on: Mar 7, 2024
- *      Author: Arif Mandal
+ *      Author: Davut Beyazkaya
  */
 
 #ifndef INC_UTILITY_H_
