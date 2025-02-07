@@ -2,7 +2,7 @@
  * joystick.h
  *
  *  Created on: Mar 2, 2024
- *      Author: Arif Mandal
+ *      Author: Davut Beyazkaya
  */
 
 #ifndef INC_JOYSTICK_H_
