@@ -2,7 +2,7 @@
  * tp223b.c
  *
  *  Created on: May 1, 2024
- *      Author: Arif Mandal
+ *      Author: Davut Beyazkaya
  */
 
 #include "tp223b.h"
