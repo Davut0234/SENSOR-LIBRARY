@@ -1,63 +1,103 @@
-# Sensor Library Collection
+Sensor Library Collection
 
 This repository contains a collection of sensor libraries developed for STM32 microcontrollers to facilitate modular and scalable embedded systems projects. Each library is meticulously designed to simplify sensor integration, configuration, and data acquisition while ensuring robust performance and ease of use.
 
-## Libraries Included
+Libraries Included
 
-### **ADXL345 Accelerometer**
-- Datasheet analysis and project creation
-- Register configuration and initialization
-- Static function implementation for efficient data access
-- Axis data acquisition and conversion to 'g' values
+ADXL345 Accelerometer
 
-### **BME280 Environmental Sensor (Humidity, Temperature, Pressure)**
-- Register setup and calibration
-- Reading and interpreting environmental data
-- Debugging strategies and performance optimization
+Datasheet analysis and project creation
 
-### **4x4 Keypad**
-- Key reading and debounce handling
-- Real-world testing and validation
+Register configuration and initialization
 
-### **2-Axis Joystick**
-- Axis and button value acquisition
-- Seamless integration and testing
+Static function implementation for efficient data access
 
-### **LIS302DL Accelerometer**
-- Register setup and data reading
-- Debugging and validation for accurate readings
+Axis data acquisition and conversion to 'g' values
 
-### **128x64 OLED Display**
-- Display driver integration and custom demos
+BME280 Environmental Sensor (Humidity, Temperature, Pressure)
 
-### **Rotary Encoder**
-- Menu design integration with rotary input
+Register setup and calibration
 
-### **AT24C256 EEPROM**
-- Read, write, and erase functions
-- Efficient memory handling
+Reading and interpreting environmental data
 
-### **Touch Sensor**
-- Touch detection and press duration tracking
+Debugging strategies and performance optimization
 
-### **MPU6050 Motion Sensor**
-- Accelerometer, gyroscope, and temperature data acquisition
-- Data conversion to physical units (g, °/s)
+4x4 Keypad
 
-### **Utility Functions**
-- Mapping and other helper functions
+Key reading and debounce handling
 
-## Key Features
-- Comprehensive modular sensor libraries
-- Efficient and reusable code structures
-- Debug-friendly designs with detailed testing routines
-- Integration of Python plotting and advanced menu designs
+Real-world testing and validation
 
-## Usage Instructions
-Each sensor library contains dedicated `init`, `read`, and utility functions to simplify integration. Follow the datasheet guidelines and example projects to customize them according to your requirements.
+2-Axis Joystick
 
-## Contribution
+Axis and button value acquisition
+
+Seamless integration and testing
+
+LIS302DL Accelerometer
+
+Register setup and data reading
+
+Debugging and validation for accurate readings
+
+128x64 OLED Display
+
+Display driver integration and custom demos
+
+Rotary Encoder
+
+Menu design integration with rotary input
+
+AT24C256 EEPROM
+
+Read, write, and erase functions
+
+Efficient memory handling
+
+Touch Sensor
+
+Touch detection and press duration tracking
+
+MPU6050 Motion Sensor
+
+Accelerometer, gyroscope, and temperature data acquisition
+
+Data conversion to physical units (g, °/s)
+
+HC-SR04 Ultrasonic Distance Sensor
+
+Accurate distance measurement in centimeters and inches
+
+Efficient echo signal handling and response timing
+
+Robust initialization and configuration functions
+
+4-Digit Seven Segment Display
+
+Display driver implementation and dynamic digit updates
+
+Custom display patterns and efficient segment control
+
+Seamless integration with STM32 timers for multiplexing
+
+Utility Functions
+
+Mapping and other helper functions
+
+Key Features
+
+Comprehensive modular sensor libraries
+
+Efficient and reusable code structures
+
+Debug-friendly designs with detailed testing routines
+
+Integration of Python plotting and advanced menu designs
+
+Usage Instructions
+
+Each sensor library contains dedicated init, read, and utility functions to simplify integration. Follow the datasheet guidelines and example projects to customize them according to your requirements.
+
+Contribution
+
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the libraries.
-
-
-
